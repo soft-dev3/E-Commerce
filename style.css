@@ -1,0 +1,74 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    padding: 5px 10px;
+}
+.bg-color{
+background-color:white;
+}
+.container{
+    margin-bottom: 40px;
+}
+/* .width-height{
+
+    height: 1200px;
+} */
+h1{
+    font-weight: bold;
+}
+.bg-img{
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.bg-img2{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.smartphone{
+    text-align: start;
+    font-weight: bold;
+}
+.smartphone1{
+    text-align: end;
+    color: orange;
+}
+.card-text{
+    color: grey;
+}
+.smartphone-card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.body-card{
+    text-align: center;
+    
+}
+.smartphone-card img{
+    width: 200px;
+    align-self: center;
+}
+.card-design{
+    border:none;
+    align-self: center;
+    padding: 50px 10px;
+    box-shadow: 5px 5px 10px lightgray;
+  
+}
+.align-items-center{
+    align-self: center;
+}
+.shop-image img{
+    width: 600px;
+}
+.padding{
+    margin-top: 80px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
